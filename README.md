@@ -1,0 +1,1 @@
+This is a Teasla clone made by using react js ,styled-component(for styling in the js file)and also using react reveal for some basic animations
